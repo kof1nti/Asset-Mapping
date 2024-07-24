@@ -1,5 +1,7 @@
 # Asset-Mapping
 
+[Field Mapping images](https://kof1nti.github.io/Asset-Mapping/)
+
 
 Asset Mapping Project for ECG, Joeamah Geomatic Consult-2017
 A study conducted by Africa Centre for Energy Policy (ACEP) indicates that ECG suffers huge losses due to illegal power connections and meter tampering. To remedy this, ECG asset Mapping was introduced to map all ECG assets using surveying and mapping techniques. As part of the asset mapping projects, these activities were carried out successfully.
