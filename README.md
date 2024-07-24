@@ -12,4 +12,4 @@ A study conducted by Africa Centre for Energy Policy (ACEP) indicates that ECG s
 
 •	Editing asset data in ArcGIS and providing statistics and detailed information on all available ECG assets using advanced spatial analysis.
 
-This project has been instrumental in ensuring that about GH₵ 6 million owed the ECG in 2021 were recovered as a result of illegal connections. It has also provided a means of tracking all ECG assets connected to the national grid without ECG’s knowledge. Ultimately a geospatial solution provided by Joeamah Geomatic Consult has improved revenue generation for the Electricity Company of Ghana.
+This project has been instrumental in ensuring that about GH₵ 6 million owed the ECG in 2021 were recovered as a result of illegal connections. It has also provided a means of tracking all ECG assets connected to the national grid without ECG’s knowledge. Ultimately a geospatial solution provided by Joeamah Geomatic Consult has improved revenue generation for the Electricity Company of Ghana
